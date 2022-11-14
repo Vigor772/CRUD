@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421245651962",
+    "project_id": "crud-b0741",
+    "storage_bucket": "crud-b0741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421245651962:android:1fbe62a4b1cb292b203243",
+        "android_client_info": {
+          "package_name": "com.salacian.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421245651962-o76j0qk2k9smeigff19mn1n76ao0fv32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salacian.crud",
+            "certificate_hash": "e6514eac9c1f618369c4736617bb69802870932c"
+          }
+        },
+        {
+          "client_id": "421245651962-v5h2mukvetueetkt33pv8egsv43j5jr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6IOuWftPS7tG9PCcbaPwLcGe1rJWyzaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421245651962-v5h2mukvetueetkt33pv8egsv43j5jr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
